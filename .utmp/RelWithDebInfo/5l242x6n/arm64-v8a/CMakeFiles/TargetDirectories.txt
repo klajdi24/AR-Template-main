@@ -1,0 +1,5 @@
+/Users/k2-bakiri/Downloads/AR-Template-main/.utmp/RelWithDebInfo/5l242x6n/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/k2-bakiri/Downloads/AR-Template-main/.utmp/RelWithDebInfo/5l242x6n/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/k2-bakiri/Downloads/AR-Template-main/.utmp/RelWithDebInfo/5l242x6n/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/k2-bakiri/Downloads/AR-Template-main/.utmp/RelWithDebInfo/5l242x6n/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/k2-bakiri/Downloads/AR-Template-main/.utmp/RelWithDebInfo/5l242x6n/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
